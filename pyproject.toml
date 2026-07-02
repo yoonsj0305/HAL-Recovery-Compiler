@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hal-recovery-compiler"
+version = "0.3.1"
+description = "Simulation-only compiler for candidate chip-specific functional recovery profiles"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Proprietary PoC"}
+authors = [{name = "HAL"}]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+
+[project.scripts]
+hal-rc = "hal_rc.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

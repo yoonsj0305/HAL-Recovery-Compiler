@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HAL Recovery Compiler"
+type: software
+version: "0.3.1-public-poc"
+authors:
+  - name: "HAL"
+abstract: "Simulation-only functional recovery profile compiler for defect-aware, route-aware workload placement on imperfect chip maps."

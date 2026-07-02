@@ -1,0 +1,2567 @@
+{
+  "chip_id": "CHIP_001_SYNTHETIC",
+  "width": 16,
+  "height": 16,
+  "tiles": [
+    {
+      "tile_id": "T_0_0",
+      "x": 0,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_1_0",
+      "x": 1,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_2_0",
+      "x": 2,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_3_0",
+      "x": 3,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_4_0",
+      "x": 4,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_5_0",
+      "x": 5,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_6_0",
+      "x": 6,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_7_0",
+      "x": 7,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_8_0",
+      "x": 8,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_9_0",
+      "x": 9,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_10_0",
+      "x": 10,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_11_0",
+      "x": 11,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_12_0",
+      "x": 12,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_13_0",
+      "x": 13,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_14_0",
+      "x": 14,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_15_0",
+      "x": 15,
+      "y": 0,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_0_1",
+      "x": 0,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_1_1",
+      "x": 1,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_2_1",
+      "x": 2,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_3_1",
+      "x": 3,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_4_1",
+      "x": 4,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.99,
+      "temp_risk": 0.04,
+      "latency_penalty": 0.04,
+      "power_penalty": 0.04
+    },
+    {
+      "tile_id": "T_5_1",
+      "x": 5,
+      "y": 1,
+      "status": "weak",
+      "confidence": 0.61,
+      "temp_risk": 0.45,
+      "latency_penalty": 0.26,
+      "power_penalty": 0.41
+    },
+    {
+      "tile_id": "T_6_1",
+      "x": 6,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_7_1",
+      "x": 7,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_8_1",
+      "x": 8,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_9_1",
+      "x": 9,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_10_1",
+      "x": 10,
+      "y": 1,
+      "status": "weak",
+      "confidence": 0.56,
+      "temp_risk": 0.36,
+      "latency_penalty": 0.27,
+      "power_penalty": 0.27
+    },
+    {
+      "tile_id": "T_11_1",
+      "x": 11,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_12_1",
+      "x": 12,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_13_1",
+      "x": 13,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_14_1",
+      "x": 14,
+      "y": 1,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_15_1",
+      "x": 15,
+      "y": 1,
+      "status": "weak",
+      "confidence": 0.71,
+      "temp_risk": 0.27,
+      "latency_penalty": 0.28,
+      "power_penalty": 0.37
+    },
+    {
+      "tile_id": "T_0_2",
+      "x": 0,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_1_2",
+      "x": 1,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_2_2",
+      "x": 2,
+      "y": 2,
+      "status": "defective",
+      "confidence": 0.16,
+      "temp_risk": 0.9,
+      "latency_penalty": 0.86,
+      "power_penalty": 0.89
+    },
+    {
+      "tile_id": "T_3_2",
+      "x": 3,
+      "y": 2,
+      "status": "defective",
+      "confidence": 0.17,
+      "temp_risk": 0.93,
+      "latency_penalty": 0.87,
+      "power_penalty": 0.91
+    },
+    {
+      "tile_id": "T_4_2",
+      "x": 4,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_5_2",
+      "x": 5,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_6_2",
+      "x": 6,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_7_2",
+      "x": 7,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_8_2",
+      "x": 8,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_9_2",
+      "x": 9,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_10_2",
+      "x": 10,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_11_2",
+      "x": 11,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_12_2",
+      "x": 12,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_13_2",
+      "x": 13,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_14_2",
+      "x": 14,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_15_2",
+      "x": 15,
+      "y": 2,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_0_3",
+      "x": 0,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_1_3",
+      "x": 1,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_2_3",
+      "x": 2,
+      "y": 3,
+      "status": "defective",
+      "confidence": 0.17,
+      "temp_risk": 0.91,
+      "latency_penalty": 0.88,
+      "power_penalty": 0.92
+    },
+    {
+      "tile_id": "T_3_3",
+      "x": 3,
+      "y": 3,
+      "status": "defective",
+      "confidence": 0.18,
+      "temp_risk": 0.82,
+      "latency_penalty": 0.89,
+      "power_penalty": 0.94
+    },
+    {
+      "tile_id": "T_4_3",
+      "x": 4,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_5_3",
+      "x": 5,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_6_3",
+      "x": 6,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_7_3",
+      "x": 7,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_8_3",
+      "x": 8,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_9_3",
+      "x": 9,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_10_3",
+      "x": 10,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_11_3",
+      "x": 11,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_12_3",
+      "x": 12,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_13_3",
+      "x": 13,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_14_3",
+      "x": 14,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_15_3",
+      "x": 15,
+      "y": 3,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_0_4",
+      "x": 0,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_1_4",
+      "x": 1,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_2_4",
+      "x": 2,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_3_4",
+      "x": 3,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_4_4",
+      "x": 4,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_5_4",
+      "x": 5,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_6_4",
+      "x": 6,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_7_4",
+      "x": 7,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_8_4",
+      "x": 8,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_9_4",
+      "x": 9,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_10_4",
+      "x": 10,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_11_4",
+      "x": 11,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_12_4",
+      "x": 12,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_13_4",
+      "x": 13,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_14_4",
+      "x": 14,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_15_4",
+      "x": 15,
+      "y": 4,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_0_5",
+      "x": 0,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_1_5",
+      "x": 1,
+      "y": 5,
+      "status": "weak",
+      "confidence": 0.57,
+      "temp_risk": 0.29,
+      "latency_penalty": 0.38,
+      "power_penalty": 0.37
+    },
+    {
+      "tile_id": "T_2_5",
+      "x": 2,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_3_5",
+      "x": 3,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_4_5",
+      "x": 4,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_5_5",
+      "x": 5,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_6_5",
+      "x": 6,
+      "y": 5,
+      "status": "weak",
+      "confidence": 0.72,
+      "temp_risk": 0.44,
+      "latency_penalty": 0.39,
+      "power_penalty": 0.47
+    },
+    {
+      "tile_id": "T_7_5",
+      "x": 7,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_8_5",
+      "x": 8,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_9_5",
+      "x": 9,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_10_5",
+      "x": 10,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_11_5",
+      "x": 11,
+      "y": 5,
+      "status": "weak",
+      "confidence": 0.67,
+      "temp_risk": 0.35,
+      "latency_penalty": 0.4,
+      "power_penalty": 0.33
+    },
+    {
+      "tile_id": "T_12_5",
+      "x": 12,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_13_5",
+      "x": 13,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_14_5",
+      "x": 14,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_15_5",
+      "x": 15,
+      "y": 5,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_0_6",
+      "x": 0,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_1_6",
+      "x": 1,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_2_6",
+      "x": 2,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_3_6",
+      "x": 3,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_4_6",
+      "x": 4,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_5_6",
+      "x": 5,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_6_6",
+      "x": 6,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_7_6",
+      "x": 7,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_8_6",
+      "x": 8,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_9_6",
+      "x": 9,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_10_6",
+      "x": 10,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_11_6",
+      "x": 11,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_12_6",
+      "x": 12,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_13_6",
+      "x": 13,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_14_6",
+      "x": 14,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_15_6",
+      "x": 15,
+      "y": 6,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_0_7",
+      "x": 0,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_1_7",
+      "x": 1,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_2_7",
+      "x": 2,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_3_7",
+      "x": 3,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_4_7",
+      "x": 4,
+      "y": 7,
+      "status": "weak",
+      "confidence": 0.6,
+      "temp_risk": 0.48,
+      "latency_penalty": 0.33,
+      "power_penalty": 0.33
+    },
+    {
+      "tile_id": "T_5_7",
+      "x": 5,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_6_7",
+      "x": 6,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_7_7",
+      "x": 7,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_8_7",
+      "x": 8,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_9_7",
+      "x": 9,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_10_7",
+      "x": 10,
+      "y": 7,
+      "status": "weak",
+      "confidence": 0.62,
+      "temp_risk": 0.42,
+      "latency_penalty": 0.39,
+      "power_penalty": 0.45
+    },
+    {
+      "tile_id": "T_11_7",
+      "x": 11,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_12_7",
+      "x": 12,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_13_7",
+      "x": 13,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_14_7",
+      "x": 14,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_15_7",
+      "x": 15,
+      "y": 7,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_0_8",
+      "x": 0,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.12,
+      "temp_risk": 0.9,
+      "latency_penalty": 0.81,
+      "power_penalty": 0.87
+    },
+    {
+      "tile_id": "T_1_8",
+      "x": 1,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.13,
+      "temp_risk": 0.93,
+      "latency_penalty": 0.82,
+      "power_penalty": 0.89
+    },
+    {
+      "tile_id": "T_2_8",
+      "x": 2,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.14,
+      "temp_risk": 0.84,
+      "latency_penalty": 0.83,
+      "power_penalty": 0.91
+    },
+    {
+      "tile_id": "T_3_8",
+      "x": 3,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.15,
+      "temp_risk": 0.87,
+      "latency_penalty": 0.84,
+      "power_penalty": 0.93
+    },
+    {
+      "tile_id": "T_4_8",
+      "x": 4,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.16,
+      "temp_risk": 0.9,
+      "latency_penalty": 0.85,
+      "power_penalty": 0.79
+    },
+    {
+      "tile_id": "T_5_8",
+      "x": 5,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.17,
+      "temp_risk": 0.93,
+      "latency_penalty": 0.86,
+      "power_penalty": 0.81
+    },
+    {
+      "tile_id": "T_6_8",
+      "x": 6,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.18,
+      "temp_risk": 0.84,
+      "latency_penalty": 0.87,
+      "power_penalty": 0.83
+    },
+    {
+      "tile_id": "T_7_8",
+      "x": 7,
+      "y": 8,
+      "status": "weak",
+      "confidence": 0.72,
+      "temp_risk": 0.38,
+      "latency_penalty": 0.26,
+      "power_penalty": 0.46
+    },
+    {
+      "tile_id": "T_8_8",
+      "x": 8,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.12,
+      "temp_risk": 0.9,
+      "latency_penalty": 0.89,
+      "power_penalty": 0.87
+    },
+    {
+      "tile_id": "T_9_8",
+      "x": 9,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.13,
+      "temp_risk": 0.93,
+      "latency_penalty": 0.9,
+      "power_penalty": 0.89
+    },
+    {
+      "tile_id": "T_10_8",
+      "x": 10,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.14,
+      "temp_risk": 0.84,
+      "latency_penalty": 0.91,
+      "power_penalty": 0.91
+    },
+    {
+      "tile_id": "T_11_8",
+      "x": 11,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.15,
+      "temp_risk": 0.87,
+      "latency_penalty": 0.92,
+      "power_penalty": 0.93
+    },
+    {
+      "tile_id": "T_12_8",
+      "x": 12,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.16,
+      "temp_risk": 0.9,
+      "latency_penalty": 0.93,
+      "power_penalty": 0.79
+    },
+    {
+      "tile_id": "T_13_8",
+      "x": 13,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.17,
+      "temp_risk": 0.93,
+      "latency_penalty": 0.94,
+      "power_penalty": 0.81
+    },
+    {
+      "tile_id": "T_14_8",
+      "x": 14,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.18,
+      "temp_risk": 0.84,
+      "latency_penalty": 0.8,
+      "power_penalty": 0.83
+    },
+    {
+      "tile_id": "T_15_8",
+      "x": 15,
+      "y": 8,
+      "status": "defective",
+      "confidence": 0.19,
+      "temp_risk": 0.87,
+      "latency_penalty": 0.81,
+      "power_penalty": 0.85
+    },
+    {
+      "tile_id": "T_0_9",
+      "x": 0,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_1_9",
+      "x": 1,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_2_9",
+      "x": 2,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_3_9",
+      "x": 3,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_4_9",
+      "x": 4,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_5_9",
+      "x": 5,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_6_9",
+      "x": 6,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_7_9",
+      "x": 7,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_8_9",
+      "x": 8,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_9_9",
+      "x": 9,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_10_9",
+      "x": 10,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_11_9",
+      "x": 11,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_12_9",
+      "x": 12,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_13_9",
+      "x": 13,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_14_9",
+      "x": 14,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_15_9",
+      "x": 15,
+      "y": 9,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_0_10",
+      "x": 0,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_1_10",
+      "x": 1,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_2_10",
+      "x": 2,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_3_10",
+      "x": 3,
+      "y": 10,
+      "status": "weak",
+      "confidence": 0.66,
+      "temp_risk": 0.36,
+      "latency_penalty": 0.34,
+      "power_penalty": 0.28
+    },
+    {
+      "tile_id": "T_4_10",
+      "x": 4,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_5_10",
+      "x": 5,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_6_10",
+      "x": 6,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_7_10",
+      "x": 7,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_8_10",
+      "x": 8,
+      "y": 10,
+      "status": "weak",
+      "confidence": 0.61,
+      "temp_risk": 0.27,
+      "latency_penalty": 0.35,
+      "power_penalty": 0.38
+    },
+    {
+      "tile_id": "T_9_10",
+      "x": 9,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_10_10",
+      "x": 10,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_11_10",
+      "x": 11,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_12_10",
+      "x": 12,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_13_10",
+      "x": 13,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_14_10",
+      "x": 14,
+      "y": 10,
+      "status": "weak",
+      "confidence": 0.63,
+      "temp_risk": 0.45,
+      "latency_penalty": 0.41,
+      "power_penalty": 0.26
+    },
+    {
+      "tile_id": "T_15_10",
+      "x": 15,
+      "y": 10,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_0_11",
+      "x": 0,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_1_11",
+      "x": 1,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_2_11",
+      "x": 2,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_3_11",
+      "x": 3,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_4_11",
+      "x": 4,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_5_11",
+      "x": 5,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_6_11",
+      "x": 6,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_7_11",
+      "x": 7,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_8_11",
+      "x": 8,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_9_11",
+      "x": 9,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_10_11",
+      "x": 10,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_11_11",
+      "x": 11,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_12_11",
+      "x": 12,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_13_11",
+      "x": 13,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_14_11",
+      "x": 14,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_15_11",
+      "x": 15,
+      "y": 11,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_0_12",
+      "x": 0,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.98,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_1_12",
+      "x": 1,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_2_12",
+      "x": 2,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_3_12",
+      "x": 3,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_4_12",
+      "x": 4,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_5_12",
+      "x": 5,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_6_12",
+      "x": 6,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_7_12",
+      "x": 7,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_8_12",
+      "x": 8,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_9_12",
+      "x": 9,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_10_12",
+      "x": 10,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_11_12",
+      "x": 11,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_12_12",
+      "x": 12,
+      "y": 12,
+      "status": "defective",
+      "confidence": 0.12,
+      "temp_risk": 0.82,
+      "latency_penalty": 0.86,
+      "power_penalty": 0.91
+    },
+    {
+      "tile_id": "T_13_12",
+      "x": 13,
+      "y": 12,
+      "status": "defective",
+      "confidence": 0.13,
+      "temp_risk": 0.85,
+      "latency_penalty": 0.87,
+      "power_penalty": 0.93
+    },
+    {
+      "tile_id": "T_14_12",
+      "x": 14,
+      "y": 12,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_15_12",
+      "x": 15,
+      "y": 12,
+      "status": "weak",
+      "confidence": 0.72,
+      "temp_risk": 0.34,
+      "latency_penalty": 0.26,
+      "power_penalty": 0.42
+    },
+    {
+      "tile_id": "T_0_13",
+      "x": 0,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_1_13",
+      "x": 1,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_2_13",
+      "x": 2,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_3_13",
+      "x": 3,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_4_13",
+      "x": 4,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_5_13",
+      "x": 5,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_6_13",
+      "x": 6,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_7_13",
+      "x": 7,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_8_13",
+      "x": 8,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_9_13",
+      "x": 9,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_10_13",
+      "x": 10,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_11_13",
+      "x": 11,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_12_13",
+      "x": 12,
+      "y": 13,
+      "status": "defective",
+      "confidence": 0.13,
+      "temp_risk": 0.83,
+      "latency_penalty": 0.88,
+      "power_penalty": 0.94
+    },
+    {
+      "tile_id": "T_13_13",
+      "x": 13,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.14,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_14_13",
+      "x": 14,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_15_13",
+      "x": 15,
+      "y": 13,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_0_14",
+      "x": 0,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_1_14",
+      "x": 1,
+      "y": 14,
+      "status": "weak",
+      "confidence": 0.56,
+      "temp_risk": 0.26,
+      "latency_penalty": 0.32,
+      "power_penalty": 0.28
+    },
+    {
+      "tile_id": "T_2_14",
+      "x": 2,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_3_14",
+      "x": 3,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_4_14",
+      "x": 4,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.91,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_5_14",
+      "x": 5,
+      "y": 14,
+      "status": "weak",
+      "confidence": 0.64,
+      "temp_risk": 0.38,
+      "latency_penalty": 0.28,
+      "power_penalty": 0.36
+    },
+    {
+      "tile_id": "T_6_14",
+      "x": 6,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.86,
+      "temp_risk": 0.17,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_7_14",
+      "x": 7,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.2,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_8_14",
+      "x": 8,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_9_14",
+      "x": 9,
+      "y": 14,
+      "status": "weak",
+      "confidence": 0.72,
+      "temp_risk": 0.26,
+      "latency_penalty": 0.24,
+      "power_penalty": 0.44
+    },
+    {
+      "tile_id": "T_10_14",
+      "x": 10,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.23
+    },
+    {
+      "tile_id": "T_11_14",
+      "x": 11,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.08
+    },
+    {
+      "tile_id": "T_12_14",
+      "x": 12,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_13_14",
+      "x": 13,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.14,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_14_14",
+      "x": 14,
+      "y": 14,
+      "status": "weak",
+      "confidence": 0.67,
+      "temp_risk": 0.41,
+      "latency_penalty": 0.25,
+      "power_penalty": 0.3
+    },
+    {
+      "tile_id": "T_15_14",
+      "x": 15,
+      "y": 14,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_0_15",
+      "x": 0,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.93,
+      "temp_risk": 0.23,
+      "latency_penalty": 0.19,
+      "power_penalty": 0.1
+    },
+    {
+      "tile_id": "T_1_15",
+      "x": 1,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.81,
+      "temp_risk": 0.07,
+      "latency_penalty": 0.07,
+      "power_penalty": 0.12
+    },
+    {
+      "tile_id": "T_2_15",
+      "x": 2,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.88,
+      "temp_risk": 0.1,
+      "latency_penalty": 0.12,
+      "power_penalty": 0.14
+    },
+    {
+      "tile_id": "T_3_15",
+      "x": 3,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.95,
+      "temp_risk": 0.13,
+      "latency_penalty": 0.17,
+      "power_penalty": 0.16
+    },
+    {
+      "tile_id": "T_4_15",
+      "x": 4,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.83,
+      "temp_risk": 0.16,
+      "latency_penalty": 0.22,
+      "power_penalty": 0.18
+    },
+    {
+      "tile_id": "T_5_15",
+      "x": 5,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.9,
+      "temp_risk": 0.19,
+      "latency_penalty": 0.1,
+      "power_penalty": 0.2
+    },
+    {
+      "tile_id": "T_6_15",
+      "x": 6,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.97,
+      "temp_risk": 0.22,
+      "latency_penalty": 0.15,
+      "power_penalty": 0.22
+    },
+    {
+      "tile_id": "T_7_15",
+      "x": 7,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.85,
+      "temp_risk": 0.06,
+      "latency_penalty": 0.2,
+      "power_penalty": 0.07
+    },
+    {
+      "tile_id": "T_8_15",
+      "x": 8,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.92,
+      "temp_risk": 0.09,
+      "latency_penalty": 0.08,
+      "power_penalty": 0.09
+    },
+    {
+      "tile_id": "T_9_15",
+      "x": 9,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.8,
+      "temp_risk": 0.12,
+      "latency_penalty": 0.13,
+      "power_penalty": 0.11
+    },
+    {
+      "tile_id": "T_10_15",
+      "x": 10,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.87,
+      "temp_risk": 0.15,
+      "latency_penalty": 0.18,
+      "power_penalty": 0.13
+    },
+    {
+      "tile_id": "T_11_15",
+      "x": 11,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.94,
+      "temp_risk": 0.18,
+      "latency_penalty": 0.06,
+      "power_penalty": 0.15
+    },
+    {
+      "tile_id": "T_12_15",
+      "x": 12,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.82,
+      "temp_risk": 0.21,
+      "latency_penalty": 0.11,
+      "power_penalty": 0.17
+    },
+    {
+      "tile_id": "T_13_15",
+      "x": 13,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.89,
+      "temp_risk": 0.05,
+      "latency_penalty": 0.16,
+      "power_penalty": 0.19
+    },
+    {
+      "tile_id": "T_14_15",
+      "x": 14,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.96,
+      "temp_risk": 0.08,
+      "latency_penalty": 0.21,
+      "power_penalty": 0.21
+    },
+    {
+      "tile_id": "T_15_15",
+      "x": 15,
+      "y": 15,
+      "status": "usable",
+      "confidence": 0.84,
+      "temp_risk": 0.11,
+      "latency_penalty": 0.09,
+      "power_penalty": 0.23
+    }
+  ]
+}

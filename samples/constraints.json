@@ -1,0 +1,8 @@
+{
+  "max_temp_risk": 0.75,
+  "max_latency_penalty": 0.7,
+  "max_power_penalty": 0.75,
+  "allow_weak_tiles_for_low_priority": true,
+  "forbid_safety_critical_on_weak_tiles": true,
+  "hardware_control_enabled": false
+}

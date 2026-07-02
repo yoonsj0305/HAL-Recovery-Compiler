@@ -1,0 +1,84 @@
+{
+  "workloads": [
+    {
+      "workload_id": "WL_SC_01",
+      "role": "monitoring_only",
+      "criticality": "safety_critical",
+      "compute_required": 8,
+      "latency_sensitivity": 0.95,
+      "reliability_required": 0.97
+    },
+    {
+      "workload_id": "WL_SC_02",
+      "role": "safety_diagnostic_candidate",
+      "criticality": "safety_critical",
+      "compute_required": 12,
+      "latency_sensitivity": 0.98,
+      "reliability_required": 0.995
+    },
+    {
+      "workload_id": "WL_HIGH_01",
+      "role": "reduced_compute",
+      "criticality": "high",
+      "compute_required": 28,
+      "latency_sensitivity": 0.8,
+      "reliability_required": 0.78
+    },
+    {
+      "workload_id": "WL_HIGH_02",
+      "role": "reduced_compute",
+      "criticality": "high",
+      "compute_required": 28,
+      "latency_sensitivity": 0.78,
+      "reliability_required": 0.78
+    },
+    {
+      "workload_id": "WL_HIGH_03",
+      "role": "background_inference",
+      "criticality": "high",
+      "compute_required": 28,
+      "latency_sensitivity": 0.74,
+      "reliability_required": 0.76
+    },
+    {
+      "workload_id": "WL_MED_01",
+      "role": "background_inference",
+      "criticality": "medium",
+      "compute_required": 28,
+      "latency_sensitivity": 0.58,
+      "reliability_required": 0.72
+    },
+    {
+      "workload_id": "WL_MED_02",
+      "role": "low_priority_cache",
+      "criticality": "medium",
+      "compute_required": 28,
+      "latency_sensitivity": 0.5,
+      "reliability_required": 0.7
+    },
+    {
+      "workload_id": "WL_MED_03",
+      "role": "test_debug_only",
+      "criticality": "medium",
+      "compute_required": 28,
+      "latency_sensitivity": 0.42,
+      "reliability_required": 0.68
+    },
+    {
+      "workload_id": "WL_LOW_01",
+      "role": "low_priority_cache",
+      "criticality": "low",
+      "compute_required": 30,
+      "latency_sensitivity": 0.3,
+      "reliability_required": 0.52
+    },
+    {
+      "workload_id": "WL_LOW_02",
+      "role": "test_debug_only",
+      "criticality": "low",
+      "compute_required": 20,
+      "latency_sensitivity": 0.2,
+      "reliability_required": 0.5
+    }
+  ]
+}
