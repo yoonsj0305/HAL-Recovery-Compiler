@@ -12,7 +12,8 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from hal_rc import __release_label__  # noqa: E402
 
-DEFAULT_OUTPUT = ROOT.parent / f"{ROOT.name}-{__release_label__}-github.zip"
+RELEASE_ROOT_NAME = "hal-recovery-compiler"
+DEFAULT_OUTPUT = ROOT.parent / f"{RELEASE_ROOT_NAME}-{__release_label__}-github.zip"
 
 EXCLUDED_PARTS = {
     ".git",
@@ -43,7 +44,7 @@ def create_release(output: Path) -> Path:
     with ZipFile(output, "w", compression=ZIP_DEFLATED, compresslevel=9) as archive:
         for path in files:
             relative = path.relative_to(ROOT)
-            archive_name = PurePosixPath(ROOT.name, *relative.parts).as_posix()
+            archive_name = PurePosixPath(RELEASE_ROOT_NAME, *relative.parts).as_posix()
             if "\\" in archive_name:
                 raise ValueError(f"release ZIP entry is not POSIX-style: {archive_name}")
             archive.write(path, archive_name)
