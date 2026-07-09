@@ -179,4 +179,4 @@ Read [docs/SAFETY_BOUNDARY.md](docs/SAFETY_BOUNDARY.md) and [docs/CLAIMS.md](doc
 
 ## License
 
-No `LICENSE` file is currently included. **TODO:** select and add an explicit license before representing this public PoC as open-source software or redistributing it under standardized terms.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
